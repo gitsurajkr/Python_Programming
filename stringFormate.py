@@ -5,9 +5,9 @@ print(letter.format(country, name))
 
 
 
-country = "India"
-name = "Suraj"
-print(f"Hey My Name is {name} and i am from {country}")
+# country = "India"
+# name = "Suraj"
+# print(f"Hey My Name is {name} and i am from {country}")
 
 
-print(f"Hey my name is {{name}} and I am from {{country}}")
+# print(f"Hey my name is {{name}} and I am from {{country}}")
